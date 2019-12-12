@@ -1,0 +1,33 @@
+.a1
+{
+   background-image:url('2.jpg');	
+   
+}	
+.a2
+{   
+	margin-top:20px;
+	margin-left:20px;
+	border-style:solid;
+	border-color:black;
+	margin-right:20px;
+}
+.a3
+{   font-size: 25px;
+	padding-left:600px;
+    padding-right:500px;
+}
+.a4
+{
+	padding-right:10px;
+	padding-left:10px;
+}
+.a5
+{
+    padding-right:10px;
+	padding-left:10px;	
+}
+.a6
+{
+	padding-left:10px;
+	padding-right:1210px;
+}
